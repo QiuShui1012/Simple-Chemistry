@@ -11,7 +11,6 @@ public class SimpleChemistry implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		zh.qiushui.QChem.element.AlkaliMetal
 		LOGGER.info("Hello Fabric world!");
 	}
 }
